@@ -1,0 +1,148 @@
+.card-body{
+    background-color:white;
+    width: 100%;
+    margin:0 auto;
+}
+body{
+    background-color:rgba(255, 212, 127, 0.764);
+}
+.backgroundImage {
+    z-index: -5;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 720px;
+    background-image: url(./pexels-jean-fabien-pagano-13706837.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.card-title {
+    background-color:white;
+    width: 100%;
+    height: 45px;
+    margin:0 auto;
+}
+.card-text{
+    background-color:  rgba(255, 212, 127, 0.764);
+}
+.card-header{
+    background-color:white;
+   width: 50%;
+   height: 70px;
+    margin: auto;
+}
+.navbar {
+    background-color:black;
+height: 100px;
+}
+.newback{
+    z-index: -5;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 720px;
+    background-image: url(./pexels-lina-kivaka-3639538.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+
+.grid{
+    background-color: rgba(250, 235, 215, 0.438);
+    margin-top: 100px;
+    margin-left: 210px;
+    width: 1000px;
+    height: 2399px;
+}
+.group{
+    background-color: black;
+    width: 100%;
+    height: 350px;
+    color: white;
+}
+.man{
+    margin-top: 40px;
+}
+.hire{
+    background-color: white;
+    
+}
+.super{
+    background-color: rgba(255, 212, 127, 0.973);
+    width: 100%;
+    height: 1000px;
+    margin-top: 80px;
+}
+.hero{
+    background-color: rgba(255, 212, 127, 0.973);
+    width: 100%;
+    height: 1417px;
+    margin-top: 80px;   
+}
+.zero{
+    background-color: rgba(255, 212, 127, 0.507);
+    width: 100%;
+    height: 900px;  
+}
+.revi{
+    background-color: rgba(255, 212, 127, 0.654);
+    width: 100%;
+    height: 152px;
+    margin-top: 80px;
+   
+}
+.bob{
+    background-color: rgba(255, 212, 127, 0.654);
+    width: 100%;
+    height: 152px;
+    margin-top: 80px;
+}
+.bgimage{
+    z-index: -5;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 720px;
+    background-image: url(./pexels-wendy-wei-1674064.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.menuImage{
+    z-index: -5;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 720px;
+    background-image: url(./pexels-ivan-j-long-1387070.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.float-start{
+    font-size: 22px;
+    margin-top: 50px;
+    margin-left: 0%;
+  font-family:cursive;
+}
+.size{
+    font-size: 16px;
+    margin-bottom: 40px;
+    
+}
+.carousel-item{
+    width: 69%;
+    height: 950px;
+margin-left: 220px;
+margin-top: 125px;
+   
+}
+.btn:hover{
+    color: white;
+    background-color: black;
+}
+.imageText{
+    font-family: cursive;
+}
